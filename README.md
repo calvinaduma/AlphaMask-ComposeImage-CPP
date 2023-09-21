@@ -1,5 +1,3 @@
-Calvin Aduma
-
 This program:
 - reads and writes images using OIIO
 - converts image 3 channels to 4 channels
